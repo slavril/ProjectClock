@@ -15,22 +15,7 @@
         android:contentDescription="text"
         android:text="12"
         android:textColor="#ffffff"
-        android:textSize="60sp"
+        android:textSize="55sp"
         android:textStyle="normal" />
-    <TextView
-        android:id="@+id/appwidget_minute"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="#09C"
-        android:contentDescription="text"
-        android:text="45"
-        android:textColor="#ffffff"
-        android:textSize="60sp"
-        android:textStyle="normal"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginTop="-15dp"
-        android:layout_below="@+id/appwidget_hour"
-        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

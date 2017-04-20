@@ -113,11 +113,14 @@ public class ClockWidget extends AppWidgetProvider {
         private void updateTime() {
             mCalendar.setTimeInMillis(System.currentTimeMillis());
 
+            String hm = "";
+            String hour = DateFormat.format(getString(R.string.hour_format), mCalendar).toString();
+            String minute = DateFormat.format(getString(R.string.minute_format), mCalendar).toString();
+            hm = hour + "\n" + minute;
+
             RemoteViews mRemoteViews = new RemoteViews(getPackageName(), R.layout.clock_widget);
             mRemoteViews.setTextViewText(R.id.appwidget_hour, DateFormat.format(getString(R.string.hour_format), mCalendar));
             mRemoteViews.setTextViewText(R.id.appwidget_minute, DateFormat.format(getString(R.string.minute_format), mCalendar));
-            //mRemoteViews.setTextViewText(R.id.Date,
-                    //DateFormat.format(getString(R.string.date_format), mCalendar));
 
             ComponentName mComponentName = new ComponentName(this, ClockWidget.class);
             AppWidgetManager mAppWidgetManager = AppWidgetManager.getInstance(this);

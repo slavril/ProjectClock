@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Apr 20 15:50:35 ICT 2017
+#Thu Apr 20 17:47:52 ICT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/sondang/My Projects/ProjectClock/app/build/intermediates/res/resources-debug.ap_/res/drawable-v21/abc_edit_text_material.xml
