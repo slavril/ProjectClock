@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/63c64777ade22a882b3ecda131f6e9db32c6c19f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c67a3e437a5b4bc11a44b65b620d29000df6bbaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/84bb0085a4b74bb630721636233a1b6a8e3cb5e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_005ce921d1ab0ab745c8420708ca6152c85b8cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/feb87e11f43afd6c544bda8acd61c421b2573485/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4684f724aa38da1e64f1340788a974a9fea9bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/35b028d56f2d0f91a9bb230768e11e1a3acbe041/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2a7777031a60eeacf1e01c83b83ef55b1ac2ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/33257c7124c012fd437cc5d1af70f1ccf44f766d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7087f0d8e1056ec0a64819b6d7f5a73423c0e71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b83888bc7f19f591d46fcd28093d9d72c4f1befd">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b27f6a48a54326fc5f4fa6d243b304006d4b183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5eb3e833aa2d362770e755452a76385c3278e7c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/2806db35681256b70198eb315f128ff5d4080fed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_784276d9f7bcaed74d8f119f7ccb086ea15108d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e07ad66dd9c64164c3a303d50cbb9d7024fab4b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/d519914fa38dad67976911cb5a525eef7991a5d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cc87da18b137cdfb9adf4724a078b1d7e9dbe3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/3fe1599f8c0c1302e16c427a34f9ba601d634137/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d23879d46e7982384d60be8af3c9cb0df395fab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2423e730d4fd6d9cc169a76266b085876ff2306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_da05e070145e063d8427d28b21cda129f492fc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sondang/.android/build-cache/6c6ac85e2513521c680cc21972b6306dbed4e7e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60a4407ad9854d4511f0963638b5fc008186824f/classes.dex" />
+    </item>
+
+</items>

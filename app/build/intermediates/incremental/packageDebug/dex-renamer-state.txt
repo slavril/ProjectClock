@@ -1,0 +1,7 @@
+#Thu Apr 20 15:50:35 ICT 2017
+base.0=/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b27f6a48a54326fc5f4fa6d243b304006d4b183
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2423e730d4fd6d9cc169a76266b085876ff2306/classes.dex
+base.1=/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2423e730d4fd6d9cc169a76266b085876ff2306
+file.0=/Users/sondang/My Projects/ProjectClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b27f6a48a54326fc5f4fa6d243b304006d4b183/classes.dex

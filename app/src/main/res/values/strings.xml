@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectClock</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="time_format">h:mm</string>
+    <string name="hour_format">hh</string>
+    <string name="minute_format">mm</string>
+    <string name="date_format">EEE, MMMM dd</string>
+</resources>

@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:5:5-36:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sondang/.android/build-cache/63c64777ade22a882b3ecda131f6e9db32c6c19f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sondang/.android/build-cache/d519914fa38dad67976911cb5a525eef7991a5d3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sondang/.android/build-cache/84bb0085a4b74bb630721636233a1b6a8e3cb5e6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sondang/.android/build-cache/3fe1599f8c0c1302e16c427a34f9ba601d634137/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sondang/.android/build-cache/feb87e11f43afd6c544bda8acd61c421b2573485/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/2806db35681256b70198eb315f128ff5d4080fed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/6c6ac85e2513521c680cc21972b6306dbed4e7e9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sondang/.android/build-cache/33257c7124c012fd437cc5d1af70f1ccf44f766d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sondang/.android/build-cache/35b028d56f2d0f91a9bb230768e11e1a3acbe041/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sondang.projectclock.MainActivity
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:16:27-74
+receiver#com.example.sondang.projectclock.ClockWidget
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:20:19-46
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:21:13-23:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:22:17-84
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:22:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:25:13-27:61
+	android:resource
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:27:17-58
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:26:17-58
+service#com.example.sondang.projectclock.ClockWidget$UpdateTimeService
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:30:13-58
+intent-filter#com.example.sondang.projectclock.action.UPDATE_TIME
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:32:13-34:29
+action#com.example.sondang.projectclock.action.UPDATE_TIME
+ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:33:17-93
+	android:name
+		ADDED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml:33:25-91
+uses-sdk
+INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sondang/.android/build-cache/63c64777ade22a882b3ecda131f6e9db32c6c19f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sondang/.android/build-cache/d519914fa38dad67976911cb5a525eef7991a5d3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sondang/.android/build-cache/84bb0085a4b74bb630721636233a1b6a8e3cb5e6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sondang/.android/build-cache/3fe1599f8c0c1302e16c427a34f9ba601d634137/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sondang/.android/build-cache/feb87e11f43afd6c544bda8acd61c421b2573485/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/2806db35681256b70198eb315f128ff5d4080fed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/6c6ac85e2513521c680cc21972b6306dbed4e7e9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sondang/.android/build-cache/33257c7124c012fd437cc5d1af70f1ccf44f766d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sondang/.android/build-cache/35b028d56f2d0f91a9bb230768e11e1a3acbe041/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sondang/My Projects/ProjectClock/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sondang/.android/build-cache/63c64777ade22a882b3ecda131f6e9db32c6c19f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sondang/.android/build-cache/d519914fa38dad67976911cb5a525eef7991a5d3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sondang/.android/build-cache/84bb0085a4b74bb630721636233a1b6a8e3cb5e6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sondang/.android/build-cache/3fe1599f8c0c1302e16c427a34f9ba601d634137/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sondang/.android/build-cache/feb87e11f43afd6c544bda8acd61c421b2573485/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/2806db35681256b70198eb315f128ff5d4080fed/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sondang/.android/build-cache/6c6ac85e2513521c680cc21972b6306dbed4e7e9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sondang/.android/build-cache/33257c7124c012fd437cc5d1af70f1ccf44f766d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/AndroidManifest.xml:26:9-47

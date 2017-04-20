@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sondang/My Projects/ProjectClock/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sondang/My Projects/ProjectClock/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

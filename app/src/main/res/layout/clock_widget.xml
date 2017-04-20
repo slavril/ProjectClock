@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#09C"
+    android:padding="@dimen/widget_margin">
+
+    <TextView
+        android:id="@+id/appwidget_hour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="8dp"
+        android:background="#09C"
+        android:contentDescription="text"
+        android:text="12"
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:textStyle="normal" />
+    <TextView
+        android:id="@+id/appwidget_minute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#09C"
+        android:contentDescription="text"
+        android:text="45"
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:textStyle="normal"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="-15dp"
+        android:layout_below="@+id/appwidget_hour"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
