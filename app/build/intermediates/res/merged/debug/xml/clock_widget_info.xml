@@ -3,7 +3,7 @@
     android:initialKeyguardLayout="@layout/clock_widget"
     android:initialLayout="@layout/clock_widget"
     android:minHeight="110dp"
-    android:minWidth="40dp"
+    android:minWidth="80dp"
     android:previewImage="@drawable/example_appwidget_preview"
     android:resizeMode="horizontal|vertical"
     android:updatePeriodMillis="100"
