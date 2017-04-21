@@ -2503,10 +2503,11 @@ containing a value of this type.
         public static final int appwidget_text=0x7f070023;
         public static final int date_format=0x7f070024;
         public static final int hour_format=0x7f070025;
-        public static final int minute_format=0x7f070026;
+        public static final int hour_minute_size=0x7f070026;
+        public static final int minute_format=0x7f070027;
         public static final int search_menu_title=0x7f070013;
         public static final int status_bar_notification_info_overflow=0x7f070014;
-        public static final int time_format=0x7f070027;
+        public static final int time_format=0x7f070028;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f09009f;

@@ -774,10 +774,11 @@ int string app_name 0x7f070022
 int string appwidget_text 0x7f070023
 int string date_format 0x7f070024
 int string hour_format 0x7f070025
-int string minute_format 0x7f070026
+int string hour_minute_size 0x7f070026
+int string minute_format 0x7f070027
 int string search_menu_title 0x7f070013
 int string status_bar_notification_info_overflow 0x7f070014
-int string time_format 0x7f070027
+int string time_format 0x7f070028
 int style AlertDialog_AppCompat 0x7f09009f
 int style AlertDialog_AppCompat_Light 0x7f0900a0
 int style Animation_AppCompat_Dialog 0x7f0900a1

@@ -444,7 +444,8 @@
     <string name="app_name">ProjectClock</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="date_format">EEE, MMMM dd</string>
-    <string name="hour_format">hh</string>
+    <string name="hour_format">HH</string>
+    <string name="hour_minute_size">64sp</string>
     <string name="minute_format">mm</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>

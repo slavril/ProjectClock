@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="24"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492764744826"
+    timestamp="1492765704412"
     token="-7163208600355598856"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -26,39 +26,6 @@
     <artifact
         location="/Users/sondang/My Projects/ProjectClock/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -100,6 +67,22 @@
         <artifact
             location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1492765343836"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1492765704412"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sondang/My Projects/ProjectClock/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
