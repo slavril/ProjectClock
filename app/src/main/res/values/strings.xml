@@ -5,6 +5,6 @@
     <string name="time_format">h:mm</string>
     <string name="hour_format">HH</string>
     <string name="minute_format">mm</string>
-    <string name="date_format">EEE, MMMM dd</string>
+    <string name="date_format">EEE, dd MMM</string>
     <string name="hour_minute_size">64sp</string>
 </resources>

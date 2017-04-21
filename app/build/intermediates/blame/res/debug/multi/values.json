@@ -3181,8 +3181,27 @@
                     "startLine": 445,
                     "startColumn": 4,
                     "startOffset": 43932,
-                    "endColumn": 52,
-                    "endOffset": 43980
+                    "endColumn": 51,
+                    "endOffset": 43979
+                },
+                "from": {
+                    "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 51,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 43984,
+                    "endColumn": 42,
+                    "endOffset": 44022
                 },
                 "from": {
                     "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml"
@@ -3190,30 +3209,11 @@
             },
             {
                 "to": {
-                    "startLine": 446,
-                    "startColumn": 4,
-                    "startOffset": 43985,
-                    "endColumn": 42,
-                    "endOffset": 44023
-                },
-                "from": {
-                    "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 212,
-                        "endColumn": 42,
-                        "endOffset": 250
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 44028,
+                    "startOffset": 44027,
                     "endColumn": 49,
-                    "endOffset": 44073
+                    "endOffset": 44072
                 },
                 "from": {
                     "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml"
@@ -3223,9 +3223,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 44078,
+                    "startOffset": 44077,
                     "endColumn": 44,
-                    "endOffset": 44118
+                    "endOffset": 44117
                 },
                 "from": {
                     "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml"
@@ -3235,9 +3235,9 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 44123,
+                    "startOffset": 44122,
                     "endColumn": 52,
-                    "endOffset": 44171
+                    "endOffset": 44170
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3247,9 +3247,9 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 44176,
+                    "startOffset": 44175,
                     "endColumn": 70,
-                    "endOffset": 44242
+                    "endOffset": 44241
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3259,9 +3259,9 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 44247,
+                    "startOffset": 44246,
                     "endColumn": 44,
-                    "endOffset": 44287
+                    "endOffset": 44286
                 },
                 "from": {
                     "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/strings.xml"
@@ -3271,9 +3271,9 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 44292,
+                    "startOffset": 44291,
                     "endColumn": 77,
-                    "endOffset": 44365
+                    "endOffset": 44364
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3283,9 +3283,9 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 44370,
+                    "startOffset": 44369,
                     "endColumn": 89,
-                    "endOffset": 44455
+                    "endOffset": 44454
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3295,9 +3295,9 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 44460,
+                    "startOffset": 44459,
                     "endColumn": 87,
-                    "endOffset": 44543
+                    "endOffset": 44542
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3307,9 +3307,9 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 44548,
+                    "startOffset": 44547,
                     "endColumn": 95,
-                    "endOffset": 44639
+                    "endOffset": 44638
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3319,10 +3319,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 44644,
+                    "startOffset": 44643,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 44923
+                    "endOffset": 44922
                 },
                 "from": {
                     "file": "/Users/sondang/My Projects/ProjectClock/app/src/main/res/values/styles.xml"
@@ -3332,10 +3332,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 44928,
+                    "startOffset": 44927,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 45424
+                    "endOffset": 45423
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3345,9 +3345,9 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 45429,
+                    "startOffset": 45428,
                     "endColumn": 88,
-                    "endOffset": 45513
+                    "endOffset": 45512
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3357,10 +3357,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 45518,
+                    "startOffset": 45517,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 45760
+                    "endOffset": 45759
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3370,10 +3370,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 45765,
+                    "startOffset": 45764,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 46041
+                    "endOffset": 46040
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3383,10 +3383,10 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 46046,
+                    "startOffset": 46045,
                     "endLine": 482,
                     "endColumn": 12,
-                    "endOffset": 46326
+                    "endOffset": 46325
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3396,10 +3396,10 @@
                 "to": {
                     "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 46331,
+                    "startOffset": 46330,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 46719
+                    "endOffset": 46718
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3409,10 +3409,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 46724,
+                    "startOffset": 46723,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 47196
+                    "endOffset": 47195
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3422,10 +3422,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 47201,
+                    "startOffset": 47200,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 47418
+                    "endOffset": 47417
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3435,10 +3435,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 47423,
+                    "startOffset": 47422,
                     "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 47640
+                    "endOffset": 47639
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3448,10 +3448,10 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 47645,
+                    "startOffset": 47644,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 47908
+                    "endOffset": 47907
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3461,10 +3461,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 47913,
+                    "startOffset": 47912,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 48135
+                    "endOffset": 48134
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3474,10 +3474,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 48140,
+                    "startOffset": 48139,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 48365
+                    "endOffset": 48364
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3487,10 +3487,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 48370,
+                    "startOffset": 48369,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 48595
+                    "endOffset": 48594
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3500,10 +3500,10 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 48600,
+                    "startOffset": 48599,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 48825
+                    "endOffset": 48824
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3513,10 +3513,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 48830,
+                    "startOffset": 48829,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 49055
+                    "endOffset": 49054
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3526,10 +3526,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 49060,
+                    "startOffset": 49059,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 49282
+                    "endOffset": 49281
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3539,10 +3539,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 49287,
+                    "startOffset": 49286,
                     "endLine": 536,
                     "endColumn": 12,
-                    "endOffset": 49521
+                    "endOffset": 49520
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3552,10 +3552,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 49526,
+                    "startOffset": 49525,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 49747
+                    "endOffset": 49746
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3565,10 +3565,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 49752,
+                    "startOffset": 49751,
                     "endLine": 544,
                     "endColumn": 12,
-                    "endOffset": 49992
+                    "endOffset": 49991
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3578,10 +3578,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 49997,
+                    "startOffset": 49996,
                     "endLine": 548,
                     "endColumn": 12,
-                    "endOffset": 50222
+                    "endOffset": 50221
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3591,10 +3591,10 @@
                 "to": {
                     "startLine": 549,
                     "startColumn": 4,
-                    "startOffset": 50227,
+                    "startOffset": 50226,
                     "endLine": 552,
                     "endColumn": 12,
-                    "endOffset": 50470
+                    "endOffset": 50469
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3604,10 +3604,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 50475,
+                    "startOffset": 50474,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 50689
+                    "endOffset": 50688
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3617,10 +3617,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 50694,
+                    "startOffset": 50693,
                     "endLine": 561,
                     "endColumn": 12,
-                    "endOffset": 50972
+                    "endOffset": 50971
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3630,10 +3630,10 @@
                 "to": {
                     "startLine": 562,
                     "startColumn": 4,
-                    "startOffset": 50977,
+                    "startOffset": 50976,
                     "endLine": 565,
                     "endColumn": 12,
-                    "endOffset": 51180
+                    "endOffset": 51179
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3643,10 +3643,10 @@
                 "to": {
                     "startLine": 566,
                     "startColumn": 4,
-                    "startOffset": 51185,
+                    "startOffset": 51184,
                     "endLine": 568,
                     "endColumn": 12,
-                    "endOffset": 51311
+                    "endOffset": 51310
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3656,10 +3656,10 @@
                 "to": {
                     "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 51316,
+                    "startOffset": 51315,
                     "endLine": 572,
                     "endColumn": 12,
-                    "endOffset": 51538
+                    "endOffset": 51537
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3669,10 +3669,10 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 51543,
+                    "startOffset": 51542,
                     "endLine": 576,
                     "endColumn": 12,
-                    "endOffset": 51784
+                    "endOffset": 51783
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3682,10 +3682,10 @@
                 "to": {
                     "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 51789,
+                    "startOffset": 51788,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 52009
+                    "endOffset": 52008
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3695,10 +3695,10 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 52014,
+                    "startOffset": 52013,
                     "endLine": 584,
                     "endColumn": 12,
-                    "endOffset": 52256
+                    "endOffset": 52255
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3708,10 +3708,10 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 52261,
+                    "startOffset": 52260,
                     "endLine": 588,
                     "endColumn": 12,
-                    "endOffset": 52477
+                    "endOffset": 52476
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3721,10 +3721,10 @@
                 "to": {
                     "startLine": 589,
                     "startColumn": 4,
-                    "startOffset": 52482,
+                    "startOffset": 52481,
                     "endLine": 592,
                     "endColumn": 12,
-                    "endOffset": 52722
+                    "endOffset": 52721
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3734,10 +3734,10 @@
                 "to": {
                     "startLine": 593,
                     "startColumn": 4,
-                    "startOffset": 52727,
+                    "startOffset": 52726,
                     "endLine": 596,
                     "endColumn": 12,
-                    "endOffset": 52998
+                    "endOffset": 52997
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3747,10 +3747,10 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 53003,
+                    "startOffset": 53002,
                     "endLine": 600,
                     "endColumn": 12,
-                    "endOffset": 53299
+                    "endOffset": 53298
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3760,10 +3760,10 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 53304,
+                    "startOffset": 53303,
                     "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 53623
+                    "endOffset": 53622
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3773,10 +3773,10 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 53628,
+                    "startOffset": 53627,
                     "endLine": 608,
                     "endColumn": 12,
-                    "endOffset": 53914
+                    "endOffset": 53913
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3786,10 +3786,10 @@
                 "to": {
                     "startLine": 609,
                     "startColumn": 4,
-                    "startOffset": 53919,
+                    "startOffset": 53918,
                     "endLine": 612,
                     "endColumn": 12,
-                    "endOffset": 54228
+                    "endOffset": 54227
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3799,9 +3799,9 @@
                 "to": {
                     "startLine": 613,
                     "startColumn": 4,
-                    "startOffset": 54233,
+                    "startOffset": 54232,
                     "endColumn": 136,
-                    "endOffset": 54365
+                    "endOffset": 54364
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3811,9 +3811,9 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 54370,
+                    "startOffset": 54369,
                     "endColumn": 130,
-                    "endOffset": 54496
+                    "endOffset": 54495
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3823,9 +3823,9 @@
                 "to": {
                     "startLine": 615,
                     "startColumn": 4,
-                    "startOffset": 54501,
+                    "startOffset": 54500,
                     "endColumn": 104,
-                    "endOffset": 54601
+                    "endOffset": 54600
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3835,10 +3835,10 @@
                 "to": {
                     "startLine": 616,
                     "startColumn": 4,
-                    "startOffset": 54606,
+                    "startOffset": 54605,
                     "endLine": 618,
                     "endColumn": 12,
-                    "endOffset": 54843
+                    "endOffset": 54842
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3848,10 +3848,10 @@
                 "to": {
                     "startLine": 619,
                     "startColumn": 4,
-                    "startOffset": 54848,
+                    "startOffset": 54847,
                     "endLine": 621,
                     "endColumn": 12,
-                    "endOffset": 55010
+                    "endOffset": 55009
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3861,10 +3861,10 @@
                 "to": {
                     "startLine": 622,
                     "startColumn": 4,
-                    "startOffset": 55015,
+                    "startOffset": 55014,
                     "endLine": 624,
                     "endColumn": 12,
-                    "endOffset": 55214
+                    "endOffset": 55213
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3874,10 +3874,10 @@
                 "to": {
                     "startLine": 625,
                     "startColumn": 4,
-                    "startOffset": 55219,
+                    "startOffset": 55218,
                     "endLine": 627,
                     "endColumn": 12,
-                    "endOffset": 55422
+                    "endOffset": 55421
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3887,10 +3887,10 @@
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 55427,
+                    "startOffset": 55426,
                     "endLine": 631,
                     "endColumn": 12,
-                    "endOffset": 55693
+                    "endOffset": 55692
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3900,9 +3900,9 @@
                 "to": {
                     "startLine": 632,
                     "startColumn": 4,
-                    "startOffset": 55698,
+                    "startOffset": 55697,
                     "endColumn": 111,
-                    "endOffset": 55805
+                    "endOffset": 55804
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3912,9 +3912,9 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 55810,
+                    "startOffset": 55809,
                     "endColumn": 111,
-                    "endOffset": 55917
+                    "endOffset": 55916
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3924,9 +3924,9 @@
                 "to": {
                     "startLine": 634,
                     "startColumn": 4,
-                    "startOffset": 55922,
+                    "startOffset": 55921,
                     "endColumn": 104,
-                    "endOffset": 56022
+                    "endOffset": 56021
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3936,9 +3936,9 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 56027,
+                    "startOffset": 56026,
                     "endColumn": 116,
-                    "endOffset": 56139
+                    "endOffset": 56138
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3948,10 +3948,10 @@
                 "to": {
                     "startLine": 636,
                     "startColumn": 4,
-                    "startOffset": 56144,
+                    "startOffset": 56143,
                     "endLine": 638,
                     "endColumn": 12,
-                    "endOffset": 56353
+                    "endOffset": 56352
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3961,10 +3961,10 @@
                 "to": {
                     "startLine": 639,
                     "startColumn": 4,
-                    "startOffset": 56358,
+                    "startOffset": 56357,
                     "endLine": 640,
                     "endColumn": 12,
-                    "endOffset": 56499
+                    "endOffset": 56498
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3974,10 +3974,10 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 56504,
+                    "startOffset": 56503,
                     "endLine": 642,
                     "endColumn": 12,
-                    "endOffset": 56639
+                    "endOffset": 56638
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -3987,10 +3987,10 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 56644,
+                    "startOffset": 56643,
                     "endLine": 644,
                     "endColumn": 12,
-                    "endOffset": 56725
+                    "endOffset": 56724
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4000,10 +4000,10 @@
                 "to": {
                     "startLine": 645,
                     "startColumn": 4,
-                    "startOffset": 56730,
+                    "startOffset": 56729,
                     "endLine": 649,
                     "endColumn": 12,
-                    "endOffset": 57073
+                    "endOffset": 57072
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4013,9 +4013,9 @@
                 "to": {
                     "startLine": 650,
                     "startColumn": 4,
-                    "startOffset": 57078,
+                    "startOffset": 57077,
                     "endColumn": 87,
-                    "endOffset": 57161
+                    "endOffset": 57160
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4025,10 +4025,10 @@
                 "to": {
                     "startLine": 651,
                     "startColumn": 4,
-                    "startOffset": 57166,
+                    "startOffset": 57165,
                     "endLine": 654,
                     "endColumn": 12,
-                    "endOffset": 57391
+                    "endOffset": 57390
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4038,10 +4038,10 @@
                 "to": {
                     "startLine": 655,
                     "startColumn": 4,
-                    "startOffset": 57396,
+                    "startOffset": 57395,
                     "endLine": 660,
                     "endColumn": 12,
-                    "endOffset": 57809
+                    "endOffset": 57808
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4051,10 +4051,10 @@
                 "to": {
                     "startLine": 661,
                     "startColumn": 4,
-                    "startOffset": 57814,
+                    "startOffset": 57813,
                     "endLine": 664,
                     "endColumn": 12,
-                    "endOffset": 58042
+                    "endOffset": 58041
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4064,9 +4064,9 @@
                 "to": {
                     "startLine": 665,
                     "startColumn": 4,
-                    "startOffset": 58047,
+                    "startOffset": 58046,
                     "endColumn": 81,
-                    "endOffset": 58124
+                    "endOffset": 58123
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4076,10 +4076,10 @@
                 "to": {
                     "startLine": 666,
                     "startColumn": 4,
-                    "startOffset": 58129,
+                    "startOffset": 58128,
                     "endLine": 667,
                     "endColumn": 12,
-                    "endOffset": 58222
+                    "endOffset": 58221
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4089,10 +4089,10 @@
                 "to": {
                     "startLine": 668,
                     "startColumn": 4,
-                    "startOffset": 58227,
+                    "startOffset": 58226,
                     "endLine": 678,
                     "endColumn": 12,
-                    "endOffset": 58814
+                    "endOffset": 58813
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4102,9 +4102,9 @@
                 "to": {
                     "startLine": 679,
                     "startColumn": 4,
-                    "startOffset": 58819,
+                    "startOffset": 58818,
                     "endColumn": 99,
-                    "endOffset": 58914
+                    "endOffset": 58913
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4114,10 +4114,10 @@
                 "to": {
                     "startLine": 680,
                     "startColumn": 4,
-                    "startOffset": 58919,
+                    "startOffset": 58918,
                     "endLine": 683,
                     "endColumn": 12,
-                    "endOffset": 59150
+                    "endOffset": 59149
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4127,10 +4127,10 @@
                 "to": {
                     "startLine": 684,
                     "startColumn": 4,
-                    "startOffset": 59155,
+                    "startOffset": 59154,
                     "endLine": 689,
                     "endColumn": 12,
-                    "endOffset": 59574
+                    "endOffset": 59573
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4140,10 +4140,10 @@
                 "to": {
                     "startLine": 690,
                     "startColumn": 4,
-                    "startOffset": 59579,
+                    "startOffset": 59578,
                     "endLine": 693,
                     "endColumn": 12,
-                    "endOffset": 59813
+                    "endOffset": 59812
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4153,9 +4153,9 @@
                 "to": {
                     "startLine": 694,
                     "startColumn": 4,
-                    "startOffset": 59818,
+                    "startOffset": 59817,
                     "endColumn": 93,
-                    "endOffset": 59907
+                    "endOffset": 59906
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4165,9 +4165,9 @@
                 "to": {
                     "startLine": 695,
                     "startColumn": 4,
-                    "startOffset": 59912,
+                    "startOffset": 59911,
                     "endColumn": 88,
-                    "endOffset": 59996
+                    "endOffset": 59995
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4177,10 +4177,10 @@
                 "to": {
                     "startLine": 696,
                     "startColumn": 4,
-                    "startOffset": 60001,
+                    "startOffset": 60000,
                     "endLine": 699,
                     "endColumn": 12,
-                    "endOffset": 60233
+                    "endOffset": 60232
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4190,10 +4190,10 @@
                 "to": {
                     "startLine": 700,
                     "startColumn": 4,
-                    "startOffset": 60238,
+                    "startOffset": 60237,
                     "endLine": 726,
                     "endColumn": 12,
-                    "endOffset": 62257
+                    "endOffset": 62256
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4203,10 +4203,10 @@
                 "to": {
                     "startLine": 727,
                     "startColumn": 4,
-                    "startOffset": 62262,
+                    "startOffset": 62261,
                     "endLine": 730,
                     "endColumn": 12,
-                    "endOffset": 62499
+                    "endOffset": 62498
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4216,9 +4216,9 @@
                 "to": {
                     "startLine": 731,
                     "startColumn": 4,
-                    "startOffset": 62504,
+                    "startOffset": 62503,
                     "endColumn": 101,
-                    "endOffset": 62601
+                    "endOffset": 62600
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4228,10 +4228,10 @@
                 "to": {
                     "startLine": 732,
                     "startColumn": 4,
-                    "startOffset": 62606,
+                    "startOffset": 62605,
                     "endLine": 735,
                     "endColumn": 12,
-                    "endOffset": 62838
+                    "endOffset": 62837
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4241,10 +4241,10 @@
                 "to": {
                     "startLine": 736,
                     "startColumn": 4,
-                    "startOffset": 62843,
+                    "startOffset": 62842,
                     "endLine": 763,
                     "endColumn": 12,
-                    "endOffset": 64994
+                    "endOffset": 64993
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4254,10 +4254,10 @@
                 "to": {
                     "startLine": 764,
                     "startColumn": 4,
-                    "startOffset": 64999,
+                    "startOffset": 64998,
                     "endLine": 921,
                     "endColumn": 12,
-                    "endOffset": 74598
+                    "endOffset": 74597
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4267,10 +4267,10 @@
                 "to": {
                     "startLine": 922,
                     "startColumn": 4,
-                    "startOffset": 74603,
+                    "startOffset": 74602,
                     "endLine": 943,
                     "endColumn": 12,
-                    "endOffset": 75849
+                    "endOffset": 75848
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4280,10 +4280,10 @@
                 "to": {
                     "startLine": 944,
                     "startColumn": 4,
-                    "startOffset": 75854,
+                    "startOffset": 75853,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 85552
+                    "endOffset": 85551
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4293,10 +4293,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 85557,
+                    "startOffset": 85556,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 86815
+                    "endOffset": 86814
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4306,10 +4306,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 86820,
+                    "startOffset": 86819,
                     "endLine": 1150,
                     "endColumn": 12,
-                    "endOffset": 88307
+                    "endOffset": 88306
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4319,10 +4319,10 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 88312,
+                    "startOffset": 88311,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 88843
+                    "endOffset": 88842
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4332,10 +4332,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 88848,
+                    "startOffset": 88847,
                     "endLine": 1162,
                     "endColumn": 12,
-                    "endOffset": 89173
+                    "endOffset": 89172
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4345,10 +4345,10 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 89178,
+                    "startOffset": 89177,
                     "endLine": 1184,
                     "endColumn": 12,
-                    "endOffset": 90438
+                    "endOffset": 90437
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4358,10 +4358,10 @@
                 "to": {
                     "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 90443,
+                    "startOffset": 90442,
                     "endLine": 1189,
                     "endColumn": 12,
-                    "endOffset": 90694
+                    "endOffset": 90693
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4371,10 +4371,10 @@
                 "to": {
                     "startLine": 1190,
                     "startColumn": 4,
-                    "startOffset": 90699,
+                    "startOffset": 90698,
                     "endLine": 1194,
                     "endColumn": 12,
-                    "endOffset": 90930
+                    "endOffset": 90929
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4384,10 +4384,10 @@
                 "to": {
                     "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 90935,
+                    "startOffset": 90934,
                     "endLine": 1204,
                     "endColumn": 12,
-                    "endOffset": 91477
+                    "endOffset": 91476
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4397,10 +4397,10 @@
                 "to": {
                     "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 91482,
+                    "startOffset": 91481,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 91971
+                    "endOffset": 91970
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4410,10 +4410,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 91976,
+                    "startOffset": 91975,
                     "endLine": 1222,
                     "endColumn": 12,
-                    "endOffset": 92576
+                    "endOffset": 92575
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4423,10 +4423,10 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 92581,
+                    "startOffset": 92580,
                     "endLine": 1226,
                     "endColumn": 12,
-                    "endOffset": 92774
+                    "endOffset": 92773
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4436,10 +4436,10 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 92779,
+                    "startOffset": 92778,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 93354
+                    "endOffset": 93353
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4449,10 +4449,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 93359,
+                    "startOffset": 93358,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 93918
+                    "endOffset": 93917
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4462,10 +4462,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 93923,
+                    "startOffset": 93922,
                     "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 94293
+                    "endOffset": 94292
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4475,9 +4475,9 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 94298,
+                    "startOffset": 94297,
                     "endColumn": 117,
-                    "endOffset": 94411
+                    "endOffset": 94410
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4487,10 +4487,10 @@
                 "to": {
                     "startLine": 1250,
                     "startColumn": 4,
-                    "startOffset": 94416,
+                    "startOffset": 94415,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 94949
+                    "endOffset": 94948
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4500,10 +4500,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 94954,
+                    "startOffset": 94953,
                     "endLine": 1261,
                     "endColumn": 12,
-                    "endOffset": 95106
+                    "endOffset": 95105
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4513,10 +4513,10 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 95111,
+                    "startOffset": 95110,
                     "endLine": 1264,
                     "endColumn": 12,
-                    "endOffset": 95302
+                    "endOffset": 95301
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4526,10 +4526,10 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 95307,
+                    "startOffset": 95306,
                     "endLine": 1268,
                     "endColumn": 12,
-                    "endOffset": 95575
+                    "endOffset": 95574
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4539,10 +4539,10 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 95580,
+                    "startOffset": 95579,
                     "endLine": 1272,
                     "endColumn": 12,
-                    "endOffset": 95831
+                    "endOffset": 95830
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4552,10 +4552,10 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 95836,
+                    "startOffset": 95835,
                     "endLine": 1276,
                     "endColumn": 12,
-                    "endOffset": 96001
+                    "endOffset": 96000
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4565,10 +4565,10 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 96006,
+                    "startOffset": 96005,
                     "endLine": 1279,
                     "endColumn": 12,
-                    "endOffset": 96142
+                    "endOffset": 96141
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4578,9 +4578,9 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 96147,
+                    "startOffset": 96146,
                     "endColumn": 63,
-                    "endOffset": 96206
+                    "endOffset": 96205
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4590,10 +4590,10 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 96211,
+                    "startOffset": 96210,
                     "endLine": 1284,
                     "endColumn": 12,
-                    "endOffset": 96488
+                    "endOffset": 96487
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4603,10 +4603,10 @@
                 "to": {
                     "startLine": 1285,
                     "startColumn": 4,
-                    "startOffset": 96493,
+                    "startOffset": 96492,
                     "endLine": 1288,
                     "endColumn": 12,
-                    "endOffset": 96774
+                    "endOffset": 96773
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4616,10 +4616,10 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 96779,
+                    "startOffset": 96778,
                     "endLine": 1298,
                     "endColumn": 12,
-                    "endOffset": 97450
+                    "endOffset": 97449
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4629,10 +4629,10 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 97455,
+                    "startOffset": 97454,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 97714
+                    "endOffset": 97713
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4642,10 +4642,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 97719,
+                    "startOffset": 97718,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 98052
+                    "endOffset": 98051
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4655,10 +4655,10 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 98057,
+                    "startOffset": 98056,
                     "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 98405
+                    "endOffset": 98404
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4668,9 +4668,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 98410,
+                    "startOffset": 98409,
                     "endColumn": 93,
-                    "endOffset": 98499
+                    "endOffset": 98498
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4680,10 +4680,10 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 98504,
+                    "startOffset": 98503,
                     "endLine": 1320,
                     "endColumn": 12,
-                    "endOffset": 98685
+                    "endOffset": 98684
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4693,10 +4693,10 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 98690,
+                    "startOffset": 98689,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 98991
+                    "endOffset": 98990
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4706,10 +4706,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 98996,
+                    "startOffset": 98995,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 99253
+                    "endOffset": 99252
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4719,10 +4719,10 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 99258,
+                    "startOffset": 99257,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 99378
+                    "endOffset": 99377
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4732,10 +4732,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 99383,
+                    "startOffset": 99382,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 99505
+                    "endOffset": 99504
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4745,10 +4745,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 99510,
+                    "startOffset": 99509,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 99744
+                    "endOffset": 99743
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4758,10 +4758,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 99749,
+                    "startOffset": 99748,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 99955
+                    "endOffset": 99954
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4771,10 +4771,10 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 99960,
+                    "startOffset": 99959,
                     "endLine": 1341,
                     "endColumn": 12,
-                    "endOffset": 100074
+                    "endOffset": 100073
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4784,10 +4784,10 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 100079,
+                    "startOffset": 100078,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 100267
+                    "endOffset": 100266
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4797,10 +4797,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 100272,
+                    "startOffset": 100271,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 100444
+                    "endOffset": 100443
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4810,10 +4810,10 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 100449,
+                    "startOffset": 100448,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 100899
+                    "endOffset": 100898
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4823,10 +4823,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 100904,
+                    "startOffset": 100903,
                     "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 101080
+                    "endOffset": 101079
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4836,10 +4836,10 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 101085,
+                    "startOffset": 101084,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 101202
+                    "endOffset": 101201
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4849,10 +4849,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 101207,
+                    "startOffset": 101206,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 101461
+                    "endOffset": 101460
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4862,10 +4862,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 101466,
+                    "startOffset": 101465,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 101574
+                    "endOffset": 101573
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4875,10 +4875,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 101579,
+                    "startOffset": 101578,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 101761
+                    "endOffset": 101760
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4888,10 +4888,10 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 101766,
+                    "startOffset": 101765,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 101863
+                    "endOffset": 101862
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4901,10 +4901,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 101868,
+                    "startOffset": 101867,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 102307
+                    "endOffset": 102306
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4914,10 +4914,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 102312,
+                    "startOffset": 102311,
                     "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 102431
+                    "endOffset": 102430
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4927,10 +4927,10 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 102436,
+                    "startOffset": 102435,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 102706
+                    "endOffset": 102705
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4940,10 +4940,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 102711,
+                    "startOffset": 102710,
                     "endLine": 1393,
                     "endColumn": 12,
-                    "endOffset": 103214
+                    "endOffset": 103213
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4953,10 +4953,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 103219,
+                    "startOffset": 103218,
                     "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 103710
+                    "endOffset": 103709
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4966,10 +4966,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 103715,
+                    "startOffset": 103714,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 104587
+                    "endOffset": 104586
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4979,10 +4979,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 104592,
+                    "startOffset": 104591,
                     "endLine": 1419,
                     "endColumn": 12,
-                    "endOffset": 104881
+                    "endOffset": 104880
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -4992,10 +4992,10 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 104886,
+                    "startOffset": 104885,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 105451
+                    "endOffset": 105450
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5005,10 +5005,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 105456,
+                    "startOffset": 105455,
                     "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 105600
+                    "endOffset": 105599
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5018,10 +5018,10 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 105605,
+                    "startOffset": 105604,
                     "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 106332
+                    "endOffset": 106331
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5031,10 +5031,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 106337,
+                    "startOffset": 106336,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 106504
+                    "endOffset": 106503
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5044,10 +5044,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 106509,
+                    "startOffset": 106508,
                     "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 106840
+                    "endOffset": 106839
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5057,10 +5057,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 106845,
+                    "startOffset": 106844,
                     "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 107898
+                    "endOffset": 107897
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5070,10 +5070,10 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 107903,
+                    "startOffset": 107902,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 108176
+                    "endOffset": 108175
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5083,10 +5083,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 108181,
+                    "startOffset": 108180,
                     "endLine": 1511,
                     "endColumn": 12,
-                    "endOffset": 111300
+                    "endOffset": 111299
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5096,10 +5096,10 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 111305,
+                    "startOffset": 111304,
                     "endLine": 1554,
                     "endColumn": 12,
-                    "endOffset": 114567
+                    "endOffset": 114566
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5109,9 +5109,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 114572,
+                    "startOffset": 114571,
                     "endColumn": 61,
-                    "endOffset": 114629
+                    "endOffset": 114628
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5121,10 +5121,10 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 114634,
+                    "startOffset": 114633,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 115207
+                    "endOffset": 115206
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5134,10 +5134,10 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 115212,
+                    "startOffset": 115211,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 115791
+                    "endOffset": 115790
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5147,9 +5147,9 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 115796,
+                    "startOffset": 115795,
                     "endColumn": 85,
-                    "endOffset": 115877
+                    "endOffset": 115876
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5159,10 +5159,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 115882,
+                    "startOffset": 115881,
                     "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 115990
+                    "endOffset": 115989
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5172,10 +5172,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 115995,
+                    "startOffset": 115994,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 116219
+                    "endOffset": 116218
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5185,10 +5185,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 116224,
+                    "startOffset": 116223,
                     "endLine": 1584,
                     "endColumn": 12,
-                    "endOffset": 116379
+                    "endOffset": 116378
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5198,10 +5198,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 116384,
+                    "startOffset": 116383,
                     "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 116531
+                    "endOffset": 116530
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5211,10 +5211,10 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 116536,
+                    "startOffset": 116535,
                     "endLine": 1590,
                     "endColumn": 12,
-                    "endOffset": 116702
+                    "endOffset": 116701
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5224,10 +5224,10 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 116707,
+                    "startOffset": 116706,
                     "endLine": 1593,
                     "endColumn": 12,
-                    "endOffset": 116869
+                    "endOffset": 116868
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5237,10 +5237,10 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 116874,
+                    "startOffset": 116873,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 117112
+                    "endOffset": 117111
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5250,10 +5250,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 117117,
+                    "startOffset": 117116,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 117282
+                    "endOffset": 117281
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5263,10 +5263,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 117287,
+                    "startOffset": 117286,
                     "endLine": 1603,
                     "endColumn": 12,
-                    "endOffset": 117455
+                    "endOffset": 117454
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5276,10 +5276,10 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 117460,
+                    "startOffset": 117459,
                     "endLine": 1606,
                     "endColumn": 12,
-                    "endOffset": 117626
+                    "endOffset": 117625
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5289,10 +5289,10 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 117631,
+                    "startOffset": 117630,
                     "endLine": 1610,
                     "endColumn": 12,
-                    "endOffset": 117900
+                    "endOffset": 117899
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5302,10 +5302,10 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 117905,
+                    "startOffset": 117904,
                     "endLine": 1613,
                     "endColumn": 12,
-                    "endOffset": 118099
+                    "endOffset": 118098
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5315,10 +5315,10 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 118104,
+                    "startOffset": 118103,
                     "endLine": 1617,
                     "endColumn": 12,
-                    "endOffset": 118304
+                    "endOffset": 118303
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5328,10 +5328,10 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 118309,
+                    "startOffset": 118308,
                     "endLine": 1621,
                     "endColumn": 12,
-                    "endOffset": 118634
+                    "endOffset": 118633
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5341,9 +5341,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 118639,
+                    "startOffset": 118638,
                     "endColumn": 83,
-                    "endOffset": 118718
+                    "endOffset": 118717
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5353,9 +5353,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 118723,
+                    "startOffset": 118722,
                     "endColumn": 95,
-                    "endOffset": 118814
+                    "endOffset": 118813
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5365,9 +5365,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 118819,
+                    "startOffset": 118818,
                     "endColumn": 95,
-                    "endOffset": 118910
+                    "endOffset": 118909
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5377,9 +5377,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 118915,
+                    "startOffset": 118914,
                     "endColumn": 97,
-                    "endOffset": 119008
+                    "endOffset": 119007
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5389,9 +5389,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 119013,
+                    "startOffset": 119012,
                     "endColumn": 99,
-                    "endOffset": 119108
+                    "endOffset": 119107
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5401,9 +5401,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 119113,
+                    "startOffset": 119112,
                     "endColumn": 101,
-                    "endOffset": 119210
+                    "endOffset": 119209
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5413,9 +5413,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 119215,
+                    "startOffset": 119214,
                     "endColumn": 101,
-                    "endOffset": 119312
+                    "endOffset": 119311
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5425,9 +5425,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 119317,
+                    "startOffset": 119316,
                     "endColumn": 101,
-                    "endOffset": 119414
+                    "endOffset": 119413
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5437,9 +5437,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 119419,
+                    "startOffset": 119418,
                     "endColumn": 101,
-                    "endOffset": 119516
+                    "endOffset": 119515
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5449,9 +5449,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 119521,
+                    "startOffset": 119520,
                     "endColumn": 101,
-                    "endOffset": 119618
+                    "endOffset": 119617
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5461,9 +5461,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 119623,
+                    "startOffset": 119622,
                     "endColumn": 99,
-                    "endOffset": 119718
+                    "endOffset": 119717
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5473,9 +5473,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 119723,
+                    "startOffset": 119722,
                     "endColumn": 95,
-                    "endOffset": 119814
+                    "endOffset": 119813
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5485,9 +5485,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 119819,
+                    "startOffset": 119818,
                     "endColumn": 111,
-                    "endOffset": 119926
+                    "endOffset": 119925
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5497,9 +5497,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 119931,
+                    "startOffset": 119930,
                     "endColumn": 128,
-                    "endOffset": 120055
+                    "endOffset": 120054
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5509,9 +5509,9 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 120060,
+                    "startOffset": 120059,
                     "endColumn": 122,
-                    "endOffset": 120178
+                    "endOffset": 120177
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5521,9 +5521,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 120183,
+                    "startOffset": 120182,
                     "endColumn": 130,
-                    "endOffset": 120309
+                    "endOffset": 120308
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5533,9 +5533,9 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 120314,
+                    "startOffset": 120313,
                     "endColumn": 130,
-                    "endOffset": 120440
+                    "endOffset": 120439
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5545,9 +5545,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 120445,
+                    "startOffset": 120444,
                     "endColumn": 97,
-                    "endOffset": 120538
+                    "endOffset": 120537
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5557,9 +5557,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 120543,
+                    "startOffset": 120542,
                     "endColumn": 113,
-                    "endOffset": 120652
+                    "endOffset": 120651
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5569,9 +5569,9 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 120657,
+                    "startOffset": 120656,
                     "endColumn": 93,
-                    "endOffset": 120746
+                    "endOffset": 120745
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5581,10 +5581,10 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 120751,
+                    "startOffset": 120750,
                     "endLine": 1645,
                     "endColumn": 12,
-                    "endOffset": 120945
+                    "endOffset": 120944
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5594,10 +5594,10 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 120950,
+                    "startOffset": 120949,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 121149
+                    "endOffset": 121148
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5607,9 +5607,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 121154,
+                    "startOffset": 121153,
                     "endColumn": 68,
-                    "endOffset": 121218
+                    "endOffset": 121217
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5619,9 +5619,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 121223,
+                    "startOffset": 121222,
                     "endColumn": 115,
-                    "endOffset": 121334
+                    "endOffset": 121333
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5631,9 +5631,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 121339,
+                    "startOffset": 121338,
                     "endColumn": 127,
-                    "endOffset": 121462
+                    "endOffset": 121461
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5643,9 +5643,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 121467,
+                    "startOffset": 121466,
                     "endColumn": 63,
-                    "endOffset": 121526
+                    "endOffset": 121525
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5655,10 +5655,10 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 121531,
+                    "startOffset": 121530,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 121730
+                    "endOffset": 121729
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5668,9 +5668,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 121735,
+                    "startOffset": 121734,
                     "endColumn": 68,
-                    "endOffset": 121799
+                    "endOffset": 121798
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5680,10 +5680,10 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 121804,
+                    "startOffset": 121803,
                     "endLine": 1662,
                     "endColumn": 12,
-                    "endOffset": 122002
+                    "endOffset": 122001
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5693,9 +5693,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 122007,
+                    "startOffset": 122006,
                     "endColumn": 69,
-                    "endOffset": 122072
+                    "endOffset": 122071
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5705,10 +5705,10 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 122077,
+                    "startOffset": 122076,
                     "endLine": 1665,
                     "endColumn": 12,
-                    "endOffset": 122212
+                    "endOffset": 122211
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5718,10 +5718,10 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 122217,
+                    "startOffset": 122216,
                     "endLine": 1667,
                     "endColumn": 12,
-                    "endOffset": 122346
+                    "endOffset": 122345
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5731,9 +5731,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 122351,
+                    "startOffset": 122350,
                     "endColumn": 95,
-                    "endOffset": 122442
+                    "endOffset": 122441
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5743,9 +5743,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 122447,
+                    "startOffset": 122446,
                     "endColumn": 111,
-                    "endOffset": 122554
+                    "endOffset": 122553
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5755,9 +5755,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 122559,
+                    "startOffset": 122558,
                     "endColumn": 99,
-                    "endOffset": 122654
+                    "endOffset": 122653
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5767,9 +5767,9 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 122659,
+                    "startOffset": 122658,
                     "endColumn": 115,
-                    "endOffset": 122770
+                    "endOffset": 122769
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5779,9 +5779,9 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 122775,
+                    "startOffset": 122774,
                     "endColumn": 95,
-                    "endOffset": 122866
+                    "endOffset": 122865
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5791,9 +5791,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 122871,
+                    "startOffset": 122870,
                     "endColumn": 111,
-                    "endOffset": 122978
+                    "endOffset": 122977
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5803,10 +5803,10 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 122983,
+                    "startOffset": 122982,
                     "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 123118
+                    "endOffset": 123117
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5816,9 +5816,9 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 123123,
+                    "startOffset": 123122,
                     "endColumn": 135,
-                    "endOffset": 123254
+                    "endOffset": 123253
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5828,10 +5828,10 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 123259,
+                    "startOffset": 123258,
                     "endLine": 1678,
                     "endColumn": 12,
-                    "endOffset": 123418
+                    "endOffset": 123417
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5841,9 +5841,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 123423,
+                    "startOffset": 123422,
                     "endColumn": 129,
-                    "endOffset": 123548
+                    "endOffset": 123547
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5853,10 +5853,10 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 123553,
+                    "startOffset": 123552,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 123706
+                    "endOffset": 123705
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5866,10 +5866,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 123711,
+                    "startOffset": 123710,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 123856
+                    "endOffset": 123855
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5879,9 +5879,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 123861,
+                    "startOffset": 123860,
                     "endColumn": 140,
-                    "endOffset": 123997
+                    "endOffset": 123996
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5891,10 +5891,10 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 124002,
+                    "startOffset": 124001,
                     "endLine": 1686,
                     "endColumn": 12,
-                    "endOffset": 124141
+                    "endOffset": 124140
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5904,9 +5904,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 124146,
+                    "startOffset": 124145,
                     "endColumn": 134,
-                    "endOffset": 124276
+                    "endOffset": 124275
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5916,9 +5916,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 124281,
+                    "startOffset": 124280,
                     "endColumn": 111,
-                    "endOffset": 124388
+                    "endOffset": 124387
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5928,9 +5928,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 124393,
+                    "startOffset": 124392,
                     "endColumn": 149,
-                    "endOffset": 124538
+                    "endOffset": 124537
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5940,9 +5940,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 124543,
+                    "startOffset": 124542,
                     "endColumn": 127,
-                    "endOffset": 124666
+                    "endOffset": 124665
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5952,9 +5952,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 124671,
+                    "startOffset": 124670,
                     "endColumn": 127,
-                    "endOffset": 124794
+                    "endOffset": 124793
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5964,10 +5964,10 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 124799,
+                    "startOffset": 124798,
                     "endLine": 1693,
                     "endColumn": 12,
-                    "endOffset": 124930
+                    "endOffset": 124929
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5977,9 +5977,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 124935,
+                    "startOffset": 124934,
                     "endColumn": 131,
-                    "endOffset": 125062
+                    "endOffset": 125061
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -5989,9 +5989,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 125067,
+                    "startOffset": 125066,
                     "endColumn": 129,
-                    "endOffset": 125192
+                    "endOffset": 125191
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6001,9 +6001,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 125197,
+                    "startOffset": 125196,
                     "endColumn": 129,
-                    "endOffset": 125322
+                    "endOffset": 125321
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6013,9 +6013,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 125327,
+                    "startOffset": 125326,
                     "endColumn": 111,
-                    "endOffset": 125434
+                    "endOffset": 125433
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6025,9 +6025,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 125439,
+                    "startOffset": 125438,
                     "endColumn": 139,
-                    "endOffset": 125574
+                    "endOffset": 125573
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6037,9 +6037,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 125579,
+                    "startOffset": 125578,
                     "endColumn": 67,
-                    "endOffset": 125642
+                    "endOffset": 125641
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6049,9 +6049,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 125647,
+                    "startOffset": 125646,
                     "endColumn": 72,
-                    "endOffset": 125715
+                    "endOffset": 125714
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6061,9 +6061,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 125720,
+                    "startOffset": 125719,
                     "endColumn": 73,
-                    "endOffset": 125789
+                    "endOffset": 125788
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6073,9 +6073,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 125794,
+                    "startOffset": 125793,
                     "endColumn": 72,
-                    "endOffset": 125862
+                    "endOffset": 125861
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6085,9 +6085,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 125867,
+                    "startOffset": 125866,
                     "endColumn": 73,
-                    "endOffset": 125936
+                    "endOffset": 125935
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6097,10 +6097,10 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 125941,
+                    "startOffset": 125940,
                     "endLine": 1705,
                     "endColumn": 12,
-                    "endOffset": 126082
+                    "endOffset": 126081
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6110,10 +6110,10 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 126087,
+                    "startOffset": 126086,
                     "endLine": 1707,
                     "endColumn": 12,
-                    "endOffset": 126226
+                    "endOffset": 126225
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6123,10 +6123,10 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 126231,
+                    "startOffset": 126230,
                     "endLine": 1709,
                     "endColumn": 12,
-                    "endOffset": 126364
+                    "endOffset": 126363
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6136,9 +6136,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 126369,
+                    "startOffset": 126368,
                     "endColumn": 65,
-                    "endOffset": 126430
+                    "endOffset": 126429
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6148,9 +6148,9 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 126435,
+                    "startOffset": 126434,
                     "endColumn": 89,
-                    "endOffset": 126520
+                    "endOffset": 126519
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6160,9 +6160,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 126525,
+                    "startOffset": 126524,
                     "endColumn": 75,
-                    "endOffset": 126596
+                    "endOffset": 126595
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6172,9 +6172,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 126601,
+                    "startOffset": 126600,
                     "endColumn": 103,
-                    "endOffset": 126700
+                    "endOffset": 126699
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6184,9 +6184,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 126705,
+                    "startOffset": 126704,
                     "endColumn": 89,
-                    "endOffset": 126790
+                    "endOffset": 126789
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6196,9 +6196,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 126795,
+                    "startOffset": 126794,
                     "endColumn": 101,
-                    "endOffset": 126892
+                    "endOffset": 126891
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6208,9 +6208,9 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 126897,
+                    "startOffset": 126896,
                     "endColumn": 107,
-                    "endOffset": 127000
+                    "endOffset": 126999
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6220,9 +6220,9 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 127005,
+                    "startOffset": 127004,
                     "endColumn": 107,
-                    "endOffset": 127108
+                    "endOffset": 127107
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6232,9 +6232,9 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 127113,
+                    "startOffset": 127112,
                     "endColumn": 99,
-                    "endOffset": 127208
+                    "endOffset": 127207
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6244,9 +6244,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 127213,
+                    "startOffset": 127212,
                     "endColumn": 79,
-                    "endOffset": 127288
+                    "endOffset": 127287
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6256,9 +6256,9 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 127293,
+                    "startOffset": 127292,
                     "endColumn": 91,
-                    "endOffset": 127380
+                    "endOffset": 127379
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6268,9 +6268,9 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 127385,
+                    "startOffset": 127384,
                     "endColumn": 97,
-                    "endOffset": 127478
+                    "endOffset": 127477
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6280,10 +6280,10 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 127483,
+                    "startOffset": 127482,
                     "endLine": 1723,
                     "endColumn": 12,
-                    "endOffset": 127588
+                    "endOffset": 127587
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6293,9 +6293,9 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 127593,
+                    "startOffset": 127592,
                     "endColumn": 77,
-                    "endOffset": 127666
+                    "endOffset": 127665
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6305,9 +6305,9 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 127671,
+                    "startOffset": 127670,
                     "endColumn": 105,
-                    "endOffset": 127772
+                    "endOffset": 127771
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6317,9 +6317,9 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 127777,
+                    "startOffset": 127776,
                     "endColumn": 91,
-                    "endOffset": 127864
+                    "endOffset": 127863
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6329,9 +6329,9 @@
                 "to": {
                     "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 127869,
+                    "startOffset": 127868,
                     "endColumn": 103,
-                    "endOffset": 127968
+                    "endOffset": 127967
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6341,9 +6341,9 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 127973,
+                    "startOffset": 127972,
                     "endColumn": 109,
-                    "endOffset": 128078
+                    "endOffset": 128077
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6353,10 +6353,10 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 128083,
+                    "startOffset": 128082,
                     "endLine": 1730,
                     "endColumn": 12,
-                    "endOffset": 128200
+                    "endOffset": 128199
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6366,10 +6366,10 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 128205,
+                    "startOffset": 128204,
                     "endLine": 1734,
                     "endColumn": 12,
-                    "endOffset": 128363
+                    "endOffset": 128362
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6379,10 +6379,10 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 128368,
+                    "startOffset": 128367,
                     "endLine": 1738,
                     "endColumn": 12,
-                    "endOffset": 128520
+                    "endOffset": 128519
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6392,9 +6392,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 128525,
+                    "startOffset": 128524,
                     "endColumn": 79,
-                    "endOffset": 128600
+                    "endOffset": 128599
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6404,9 +6404,9 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 128605,
+                    "startOffset": 128604,
                     "endColumn": 99,
-                    "endOffset": 128700
+                    "endOffset": 128699
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6416,9 +6416,9 @@
                 "to": {
                     "startLine": 1741,
                     "startColumn": 4,
-                    "startOffset": 128705,
+                    "startOffset": 128704,
                     "endColumn": 89,
-                    "endOffset": 128790
+                    "endOffset": 128789
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6428,9 +6428,9 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 128795,
+                    "startOffset": 128794,
                     "endColumn": 109,
-                    "endOffset": 128900
+                    "endOffset": 128899
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6440,9 +6440,9 @@
                 "to": {
                     "startLine": 1743,
                     "startColumn": 4,
-                    "startOffset": 128905,
+                    "startOffset": 128904,
                     "endColumn": 93,
-                    "endOffset": 128994
+                    "endOffset": 128993
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6452,9 +6452,9 @@
                 "to": {
                     "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 128999,
+                    "startOffset": 128998,
                     "endColumn": 105,
-                    "endOffset": 129100
+                    "endOffset": 129099
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6464,9 +6464,9 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 129105,
+                    "startOffset": 129104,
                     "endColumn": 91,
-                    "endOffset": 129192
+                    "endOffset": 129191
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6476,10 +6476,10 @@
                 "to": {
                     "startLine": 1746,
                     "startColumn": 4,
-                    "startOffset": 129197,
+                    "startOffset": 129196,
                     "endLine": 1747,
                     "endColumn": 12,
-                    "endOffset": 129292
+                    "endOffset": 129291
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6489,10 +6489,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 129297,
+                    "startOffset": 129296,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 129404
+                    "endOffset": 129403
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6502,10 +6502,10 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 129409,
+                    "startOffset": 129408,
                     "endLine": 1751,
                     "endColumn": 12,
-                    "endOffset": 129518
+                    "endOffset": 129517
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6515,10 +6515,10 @@
                 "to": {
                     "startLine": 1752,
                     "startColumn": 4,
-                    "startOffset": 129523,
+                    "startOffset": 129522,
                     "endLine": 1753,
                     "endColumn": 12,
-                    "endOffset": 129634
+                    "endOffset": 129633
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6528,10 +6528,10 @@
                 "to": {
                     "startLine": 1754,
                     "startColumn": 4,
-                    "startOffset": 129639,
+                    "startOffset": 129638,
                     "endLine": 1755,
                     "endColumn": 12,
-                    "endOffset": 129750
+                    "endOffset": 129749
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6541,9 +6541,9 @@
                 "to": {
                     "startLine": 1756,
                     "startColumn": 4,
-                    "startOffset": 129755,
+                    "startOffset": 129754,
                     "endColumn": 93,
-                    "endOffset": 129844
+                    "endOffset": 129843
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6553,9 +6553,9 @@
                 "to": {
                     "startLine": 1757,
                     "startColumn": 4,
-                    "startOffset": 129849,
+                    "startOffset": 129848,
                     "endColumn": 113,
-                    "endOffset": 129958
+                    "endOffset": 129957
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6565,9 +6565,9 @@
                 "to": {
                     "startLine": 1758,
                     "startColumn": 4,
-                    "startOffset": 129963,
+                    "startOffset": 129962,
                     "endColumn": 111,
-                    "endOffset": 130070
+                    "endOffset": 130069
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6577,10 +6577,10 @@
                 "to": {
                     "startLine": 1759,
                     "startColumn": 4,
-                    "startOffset": 130075,
+                    "startOffset": 130074,
                     "endLine": 1760,
                     "endColumn": 12,
-                    "endOffset": 130172
+                    "endOffset": 130171
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6590,10 +6590,10 @@
                 "to": {
                     "startLine": 1761,
                     "startColumn": 4,
-                    "startOffset": 130177,
+                    "startOffset": 130176,
                     "endLine": 1762,
                     "endColumn": 12,
-                    "endOffset": 130292
+                    "endOffset": 130291
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6603,10 +6603,10 @@
                 "to": {
                     "startLine": 1763,
                     "startColumn": 4,
-                    "startOffset": 130297,
+                    "startOffset": 130296,
                     "endLine": 1764,
                     "endColumn": 12,
-                    "endOffset": 130414
+                    "endOffset": 130413
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6616,9 +6616,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 130419,
+                    "startOffset": 130418,
                     "endColumn": 81,
-                    "endOffset": 130496
+                    "endOffset": 130495
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6628,9 +6628,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 130501,
+                    "startOffset": 130500,
                     "endColumn": 103,
-                    "endOffset": 130600
+                    "endOffset": 130599
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6640,9 +6640,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 130605,
+                    "startOffset": 130604,
                     "endColumn": 119,
-                    "endOffset": 130720
+                    "endOffset": 130719
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6652,9 +6652,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 130725,
+                    "startOffset": 130724,
                     "endColumn": 125,
-                    "endOffset": 130846
+                    "endOffset": 130845
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6664,9 +6664,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 130851,
+                    "startOffset": 130850,
                     "endColumn": 97,
-                    "endOffset": 130944
+                    "endOffset": 130943
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6676,9 +6676,9 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 130949,
+                    "startOffset": 130948,
                     "endColumn": 93,
-                    "endOffset": 131038
+                    "endOffset": 131037
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6688,9 +6688,9 @@
                 "to": {
                     "startLine": 1771,
                     "startColumn": 4,
-                    "startOffset": 131043,
+                    "startOffset": 131042,
                     "endColumn": 87,
-                    "endOffset": 131126
+                    "endOffset": 131125
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6700,9 +6700,9 @@
                 "to": {
                     "startLine": 1772,
                     "startColumn": 4,
-                    "startOffset": 131131,
+                    "startOffset": 131130,
                     "endColumn": 111,
-                    "endOffset": 131238
+                    "endOffset": 131237
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6712,9 +6712,9 @@
                 "to": {
                     "startLine": 1773,
                     "startColumn": 4,
-                    "startOffset": 131243,
+                    "startOffset": 131242,
                     "endColumn": 115,
-                    "endOffset": 131354
+                    "endOffset": 131353
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6724,9 +6724,9 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 131359,
+                    "startOffset": 131358,
                     "endColumn": 121,
-                    "endOffset": 131476
+                    "endOffset": 131475
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6736,9 +6736,9 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 131481,
+                    "startOffset": 131480,
                     "endColumn": 111,
-                    "endOffset": 131588
+                    "endOffset": 131587
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6748,10 +6748,10 @@
                 "to": {
                     "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 131593,
+                    "startOffset": 131592,
                     "endLine": 1778,
                     "endColumn": 12,
-                    "endOffset": 131763
+                    "endOffset": 131762
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6761,9 +6761,9 @@
                 "to": {
                     "startLine": 1779,
                     "startColumn": 4,
-                    "startOffset": 131768,
+                    "startOffset": 131767,
                     "endColumn": 115,
-                    "endOffset": 131879
+                    "endOffset": 131878
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6773,9 +6773,9 @@
                 "to": {
                     "startLine": 1780,
                     "startColumn": 4,
-                    "startOffset": 131884,
+                    "startOffset": 131883,
                     "endColumn": 85,
-                    "endOffset": 131965
+                    "endOffset": 131964
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6785,9 +6785,9 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 131970,
+                    "startOffset": 131969,
                     "endColumn": 91,
-                    "endOffset": 132057
+                    "endOffset": 132056
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6797,10 +6797,10 @@
                 "to": {
                     "startLine": 1782,
                     "startColumn": 4,
-                    "startOffset": 132062,
+                    "startOffset": 132061,
                     "endLine": 1783,
                     "endColumn": 12,
-                    "endOffset": 132169
+                    "endOffset": 132168
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6810,10 +6810,10 @@
                 "to": {
                     "startLine": 1784,
                     "startColumn": 4,
-                    "startOffset": 132174,
+                    "startOffset": 132173,
                     "endLine": 1785,
                     "endColumn": 12,
-                    "endOffset": 132293
+                    "endOffset": 132292
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6823,9 +6823,9 @@
                 "to": {
                     "startLine": 1786,
                     "startColumn": 4,
-                    "startOffset": 132298,
+                    "startOffset": 132297,
                     "endColumn": 66,
-                    "endOffset": 132360
+                    "endOffset": 132359
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6835,10 +6835,10 @@
                 "to": {
                     "startLine": 1787,
                     "startColumn": 4,
-                    "startOffset": 132365,
+                    "startOffset": 132364,
                     "endLine": 1788,
                     "endColumn": 12,
-                    "endOffset": 132486
+                    "endOffset": 132485
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6848,9 +6848,9 @@
                 "to": {
                     "startLine": 1789,
                     "startColumn": 4,
-                    "startOffset": 132491,
+                    "startOffset": 132490,
                     "endColumn": 67,
-                    "endOffset": 132554
+                    "endOffset": 132553
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6860,10 +6860,10 @@
                 "to": {
                     "startLine": 1790,
                     "startColumn": 4,
-                    "startOffset": 132559,
+                    "startOffset": 132558,
                     "endLine": 1791,
                     "endColumn": 12,
-                    "endOffset": 132682
+                    "endOffset": 132681
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6873,10 +6873,10 @@
                 "to": {
                     "startLine": 1792,
                     "startColumn": 4,
-                    "startOffset": 132687,
+                    "startOffset": 132686,
                     "endLine": 1793,
                     "endColumn": 12,
-                    "endOffset": 132826
+                    "endOffset": 132825
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6886,10 +6886,10 @@
                 "to": {
                     "startLine": 1794,
                     "startColumn": 4,
-                    "startOffset": 132831,
+                    "startOffset": 132830,
                     "endLine": 1795,
                     "endColumn": 12,
-                    "endOffset": 132954
+                    "endOffset": 132953
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6899,9 +6899,9 @@
                 "to": {
                     "startLine": 1796,
                     "startColumn": 4,
-                    "startOffset": 132959,
+                    "startOffset": 132958,
                     "endColumn": 68,
-                    "endOffset": 133023
+                    "endOffset": 133022
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6911,9 +6911,9 @@
                 "to": {
                     "startLine": 1797,
                     "startColumn": 4,
-                    "startOffset": 133028,
+                    "startOffset": 133027,
                     "endColumn": 94,
-                    "endOffset": 133118
+                    "endOffset": 133117
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6923,9 +6923,9 @@
                 "to": {
                     "startLine": 1798,
                     "startColumn": 4,
-                    "startOffset": 133123,
+                    "startOffset": 133122,
                     "endColumn": 114,
-                    "endOffset": 133233
+                    "endOffset": 133232
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6935,9 +6935,9 @@
                 "to": {
                     "startLine": 1799,
                     "startColumn": 4,
-                    "startOffset": 133238,
+                    "startOffset": 133237,
                     "endColumn": 112,
-                    "endOffset": 133346
+                    "endOffset": 133345
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6947,9 +6947,9 @@
                 "to": {
                     "startLine": 1800,
                     "startColumn": 4,
-                    "startOffset": 133351,
+                    "startOffset": 133350,
                     "endColumn": 98,
-                    "endOffset": 133445
+                    "endOffset": 133444
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6959,9 +6959,9 @@
                 "to": {
                     "startLine": 1801,
                     "startColumn": 4,
-                    "startOffset": 133450,
+                    "startOffset": 133449,
                     "endColumn": 108,
-                    "endOffset": 133554
+                    "endOffset": 133553
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6971,9 +6971,9 @@
                 "to": {
                     "startLine": 1802,
                     "startColumn": 4,
-                    "startOffset": 133559,
+                    "startOffset": 133558,
                     "endColumn": 110,
-                    "endOffset": 133665
+                    "endOffset": 133664
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6983,9 +6983,9 @@
                 "to": {
                     "startLine": 1803,
                     "startColumn": 4,
-                    "startOffset": 133670,
+                    "startOffset": 133669,
                     "endColumn": 110,
-                    "endOffset": 133776
+                    "endOffset": 133775
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -6995,9 +6995,9 @@
                 "to": {
                     "startLine": 1804,
                     "startColumn": 4,
-                    "startOffset": 133781,
+                    "startOffset": 133780,
                     "endColumn": 100,
-                    "endOffset": 133877
+                    "endOffset": 133876
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7007,9 +7007,9 @@
                 "to": {
                     "startLine": 1805,
                     "startColumn": 4,
-                    "startOffset": 133882,
+                    "startOffset": 133881,
                     "endColumn": 104,
-                    "endOffset": 133982
+                    "endOffset": 133981
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7019,9 +7019,9 @@
                 "to": {
                     "startLine": 1806,
                     "startColumn": 4,
-                    "startOffset": 133987,
+                    "startOffset": 133986,
                     "endColumn": 99,
-                    "endOffset": 134082
+                    "endOffset": 134081
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7031,10 +7031,10 @@
                 "to": {
                     "startLine": 1807,
                     "startColumn": 4,
-                    "startOffset": 134087,
+                    "startOffset": 134086,
                     "endLine": 1808,
                     "endColumn": 12,
-                    "endOffset": 134212
+                    "endOffset": 134211
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7044,9 +7044,9 @@
                 "to": {
                     "startLine": 1809,
                     "startColumn": 4,
-                    "startOffset": 134217,
+                    "startOffset": 134216,
                     "endColumn": 90,
-                    "endOffset": 134303
+                    "endOffset": 134302
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7056,9 +7056,9 @@
                 "to": {
                     "startLine": 1810,
                     "startColumn": 4,
-                    "startOffset": 134308,
+                    "startOffset": 134307,
                     "endColumn": 122,
-                    "endOffset": 134426
+                    "endOffset": 134425
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7068,9 +7068,9 @@
                 "to": {
                     "startLine": 1811,
                     "startColumn": 4,
-                    "startOffset": 134431,
+                    "startOffset": 134430,
                     "endColumn": 93,
-                    "endOffset": 134520
+                    "endOffset": 134519
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7080,10 +7080,10 @@
                 "to": {
                     "startLine": 1812,
                     "startColumn": 4,
-                    "startOffset": 134525,
+                    "startOffset": 134524,
                     "endLine": 1813,
                     "endColumn": 12,
-                    "endOffset": 134632
+                    "endOffset": 134631
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7093,9 +7093,9 @@
                 "to": {
                     "startLine": 1814,
                     "startColumn": 4,
-                    "startOffset": 134637,
+                    "startOffset": 134636,
                     "endColumn": 85,
-                    "endOffset": 134718
+                    "endOffset": 134717
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7105,9 +7105,9 @@
                 "to": {
                     "startLine": 1815,
                     "startColumn": 4,
-                    "startOffset": 134723,
+                    "startOffset": 134722,
                     "endColumn": 103,
-                    "endOffset": 134822
+                    "endOffset": 134821
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7117,9 +7117,9 @@
                 "to": {
                     "startLine": 1816,
                     "startColumn": 4,
-                    "startOffset": 134827,
+                    "startOffset": 134826,
                     "endColumn": 95,
-                    "endOffset": 134918
+                    "endOffset": 134917
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7129,9 +7129,9 @@
                 "to": {
                     "startLine": 1817,
                     "startColumn": 4,
-                    "startOffset": 134923,
+                    "startOffset": 134922,
                     "endColumn": 74,
-                    "endOffset": 134993
+                    "endOffset": 134992
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7141,9 +7141,9 @@
                 "to": {
                     "startLine": 1818,
                     "startColumn": 4,
-                    "startOffset": 134998,
+                    "startOffset": 134997,
                     "endColumn": 69,
-                    "endOffset": 135063
+                    "endOffset": 135062
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7153,9 +7153,9 @@
                 "to": {
                     "startLine": 1819,
                     "startColumn": 4,
-                    "startOffset": 135068,
+                    "startOffset": 135067,
                     "endColumn": 87,
-                    "endOffset": 135151
+                    "endOffset": 135150
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7165,10 +7165,10 @@
                 "to": {
                     "startLine": 1820,
                     "startColumn": 4,
-                    "startOffset": 135156,
+                    "startOffset": 135155,
                     "endLine": 1821,
                     "endColumn": 12,
-                    "endOffset": 135269
+                    "endOffset": 135268
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7178,10 +7178,10 @@
                 "to": {
                     "startLine": 1822,
                     "startColumn": 4,
-                    "startOffset": 135274,
+                    "startOffset": 135273,
                     "endLine": 1823,
                     "endColumn": 12,
-                    "endOffset": 135373
+                    "endOffset": 135372
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7191,10 +7191,10 @@
                 "to": {
                     "startLine": 1824,
                     "startColumn": 4,
-                    "startOffset": 135378,
+                    "startOffset": 135377,
                     "endLine": 1825,
                     "endColumn": 12,
-                    "endOffset": 135477
+                    "endOffset": 135476
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7204,10 +7204,10 @@
                 "to": {
                     "startLine": 1826,
                     "startColumn": 4,
-                    "startOffset": 135482,
+                    "startOffset": 135481,
                     "endLine": 1827,
                     "endColumn": 12,
-                    "endOffset": 135603
+                    "endOffset": 135602
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7217,9 +7217,9 @@
                 "to": {
                     "startLine": 1828,
                     "startColumn": 4,
-                    "startOffset": 135608,
+                    "startOffset": 135607,
                     "endColumn": 87,
-                    "endOffset": 135691
+                    "endOffset": 135690
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7229,9 +7229,9 @@
                 "to": {
                     "startLine": 1829,
                     "startColumn": 4,
-                    "startOffset": 135696,
+                    "startOffset": 135695,
                     "endColumn": 107,
-                    "endOffset": 135799
+                    "endOffset": 135798
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7241,9 +7241,9 @@
                 "to": {
                     "startLine": 1830,
                     "startColumn": 4,
-                    "startOffset": 135804,
+                    "startOffset": 135803,
                     "endColumn": 99,
-                    "endOffset": 135899
+                    "endOffset": 135898
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7253,9 +7253,9 @@
                 "to": {
                     "startLine": 1831,
                     "startColumn": 4,
-                    "startOffset": 135904,
+                    "startOffset": 135903,
                     "endColumn": 89,
-                    "endOffset": 135989
+                    "endOffset": 135988
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7265,9 +7265,9 @@
                 "to": {
                     "startLine": 1832,
                     "startColumn": 4,
-                    "startOffset": 135994,
+                    "startOffset": 135993,
                     "endColumn": 109,
-                    "endOffset": 136099
+                    "endOffset": 136098
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7277,9 +7277,9 @@
                 "to": {
                     "startLine": 1833,
                     "startColumn": 4,
-                    "startOffset": 136104,
+                    "startOffset": 136103,
                     "endColumn": 83,
-                    "endOffset": 136183
+                    "endOffset": 136182
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7289,9 +7289,9 @@
                 "to": {
                     "startLine": 1834,
                     "startColumn": 4,
-                    "startOffset": 136188,
+                    "startOffset": 136187,
                     "endColumn": 101,
-                    "endOffset": 136285
+                    "endOffset": 136284
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7301,9 +7301,9 @@
                 "to": {
                     "startLine": 1835,
                     "startColumn": 4,
-                    "startOffset": 136290,
+                    "startOffset": 136289,
                     "endColumn": 83,
-                    "endOffset": 136369
+                    "endOffset": 136368
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7313,9 +7313,9 @@
                 "to": {
                     "startLine": 1836,
                     "startColumn": 4,
-                    "startOffset": 136374,
+                    "startOffset": 136373,
                     "endColumn": 53,
-                    "endOffset": 136423
+                    "endOffset": 136422
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7325,9 +7325,9 @@
                 "to": {
                     "startLine": 1837,
                     "startColumn": 4,
-                    "startOffset": 136428,
+                    "startOffset": 136427,
                     "endColumn": 63,
-                    "endOffset": 136487
+                    "endOffset": 136486
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7337,9 +7337,9 @@
                 "to": {
                     "startLine": 1838,
                     "startColumn": 4,
-                    "startOffset": 136492,
+                    "startOffset": 136491,
                     "endColumn": 105,
-                    "endOffset": 136593
+                    "endOffset": 136592
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7349,9 +7349,9 @@
                 "to": {
                     "startLine": 1839,
                     "startColumn": 4,
-                    "startOffset": 136598,
+                    "startOffset": 136597,
                     "endColumn": 109,
-                    "endOffset": 136703
+                    "endOffset": 136702
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7361,9 +7361,9 @@
                 "to": {
                     "startLine": 1840,
                     "startColumn": 4,
-                    "startOffset": 136708,
+                    "startOffset": 136707,
                     "endColumn": 83,
-                    "endOffset": 136787
+                    "endOffset": 136786
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"
@@ -7373,9 +7373,9 @@
                 "to": {
                     "startLine": 1841,
                     "startColumn": 4,
-                    "startOffset": 136792,
+                    "startOffset": 136791,
                     "endColumn": 119,
-                    "endOffset": 136907
+                    "endOffset": 136906
                 },
                 "from": {
                     "file": "/Users/sondang/.android/build-cache/ec529df09cd5ff5b3adb3dab587fc960ef4299fc/output/res/values/values.xml"

@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492765704412"
+    timestamp="1492767356344"
     token="-7163208600355598856"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -70,7 +70,15 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1492765343836"
+        timestamp="1492766764855"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1492767333132"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/sondang/My Projects/ProjectClock/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -78,7 +86,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1492765704412"
+        timestamp="1492767356344"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/sondang/My Projects/ProjectClock/app/build/outputs/apk/app-debug.apk"

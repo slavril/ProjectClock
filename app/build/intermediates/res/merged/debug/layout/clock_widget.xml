@@ -13,7 +13,7 @@
         android:contentDescription="text"
         android:text="12"
         android:textColor="#ffffff"
-        android:textSize="85sp"
+        android:textSize="83sp"
         android:textStyle="normal"
         android:typeface="monospace"
         android:layout_marginTop="-8dp"/>
@@ -25,11 +25,20 @@
         android:contentDescription="text"
         android:text="45"
         android:textColor="#ffffff"
-        android:textSize="85sp"
+        android:textSize="83sp"
         android:textStyle="normal"
         android:layout_marginTop="-35dp"
         android:layout_below="@+id/appwidget_hour"
         android:layout_centerHorizontal="true"
         android:typeface="monospace"/>
+    <TextView
+        android:id="@+id/appwidget_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FRI, 30 APR"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/appwidget_minute"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-18dp"/>
 
 </RelativeLayout>

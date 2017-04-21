@@ -8,12 +8,9 @@ import android.widget.RemoteViews;
 import android.app.Service;
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
-import android.content.Context;
-import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.IBinder;
 import android.text.format.DateFormat;
-import android.widget.RemoteViews;
 import java.util.Calendar;
 
 /**
@@ -121,6 +118,7 @@ public class ClockWidget extends AppWidgetProvider {
             RemoteViews mRemoteViews = new RemoteViews(getPackageName(), R.layout.clock_widget);
             mRemoteViews.setTextViewText(R.id.appwidget_hour, DateFormat.format(getString(R.string.hour_format), mCalendar));
             mRemoteViews.setTextViewText(R.id.appwidget_minute, DateFormat.format(getString(R.string.minute_format), mCalendar));
+            mRemoteViews.setTextViewText(R.id.appwidget_date, DateFormat.format(getString(R.string.date_format), mCalendar).toString().toUpperCase());
 
             ComponentName mComponentName = new ComponentName(this, ClockWidget.class);
             AppWidgetManager mAppWidgetManager = AppWidgetManager.getInstance(this);
